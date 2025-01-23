@@ -1,4 +1,5 @@
-file_cau_hinh_baithuchanh.tar: là 1 thư mục chứa 3 file cấu hình của 3 bài thực hành đã được nén lại.
+file_cau_hinh_baithuchanh.tar: 
++ là 1 thư mục chứa 3 file cấu hình của 3 bài thực hành đã được nén lại.
 
 
 Thư mục Tong_hop_code chứa 2 giải thuật:
